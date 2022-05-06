@@ -18,6 +18,6 @@ The data used for this project can be found [here](https://drive.google.com/driv
 * The number of members out number the number of guest users on the program, despite NYC being a big tourist city
 * The trips taken by members are shorter on average versus the casual user
 
-**I have created a Data Visualization Story/Dashboard to support this hinds which can be view [here](https://public.tableau.com/app/profile/ramon.faylona/viz/citibike-challenge-tableau/Citibike-SummerinNYC2021?publish=yes)** 
+**I have created a Data Visualization Story/Dashboard to support this finds which can be view [here](https://public.tableau.com/app/profile/ramon.faylona/viz/citibike-challenge-tableau/Citibike-SummerinNYC2021?publish=yes)** 
 
 **The Dashboard offers up a few insights on the Program at the time period of Summer in NYC 2021**
